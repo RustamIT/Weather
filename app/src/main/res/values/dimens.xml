@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sto">100dp</dimen>
+    <dimen name="fiftin">50sp</dimen>
+    <dimen name="dvadcat">20dp</dimen>
+    <dimen name="stotridcat">130sp</dimen>
+    <dimen name="dvadcat_pyt">25sp</dimen>
+</resources>
